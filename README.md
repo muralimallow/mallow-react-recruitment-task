@@ -6,7 +6,7 @@
 Your job is to code an app with user list managment. Application must be SPA and use multiple routes (listed below). 
 
 ## Tech stack:
-* API: [API DOCS](https://reqres.in/)
+* API: [API DOCS](https://reqres.in/api-docs/)
 * Starter: [Create react app starter](https://github.com/facebook/create-react-app)
 * State Managment: [Redux](https://github.com/reduxjs/react-redux)
 * Middleware: [redux-thunk] or [redux-saga] (choose as per your knowledge)
